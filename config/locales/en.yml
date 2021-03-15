@@ -32,3 +32,8 @@
 en:
   hello: "Hello world"
   additional_translation: Additional translation
+  some_list:
+    -~
+    - one
+    - two
+    - others
